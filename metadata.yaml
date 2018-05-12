@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '7376'
     url: http://www.gutenberg.org/2009/agents/7376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17438#Mrs.-Wilson-s-Cook-BookNumerous-New-Recipes-Based-on-Present-Economic-Conditions
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
